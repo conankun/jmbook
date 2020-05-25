@@ -1,0 +1,21 @@
+dist: bitonic
+language: cpp
+os: linux
+
+env:
+  - CMAKE_VERSION=3.16.2
+
+addons:
+  apt:
+    update: true
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - clang
+
+compiler:
+  - clang
+
+script:
+  - cmake .
+  - make all

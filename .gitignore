@@ -1,21 +1,25 @@
+# Ignore all
+*
 
-bazel-testlogs
+# Unignore all with extensions
+!*.*
 
-bazel-scorpion
+# Unignore all directories
+!*/
 
-bazel-app
-
-bazel-out
-
-bazel-genfiles
-
-bazel-bin
-
-grader/__pycache__/
-
+# Ignore DS_Store
 \.DS_Store
 
-sandbox/
-*.swp
-
+# Ignore Intellij files
 .idea/
+
+# Ignore cmake / make related files
+*.cmake
+
+CMakeFiles/*
+
+CMakeCache.txt
+
+CMakeFiles
+
+Makefile
