@@ -7,7 +7,7 @@ matrix:
             - ubuntu-toolchain-r-test
             - llvm-toolchain-precise-11.0.3
           packages:
-            - clang-11.0.3
+            - clang-11
             - curl
 
 before_install:
