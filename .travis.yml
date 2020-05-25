@@ -1,4 +1,4 @@
-dist: trusty
+dist: bitonic
 language: cpp
 os: linux
 
@@ -8,6 +8,7 @@ addons:
       - ubuntu-toolchain-r-test
     packages:
       - clang
+      - cmake
 
 compiler:
   - clang
