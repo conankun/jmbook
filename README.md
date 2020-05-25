@@ -1,7 +1,8 @@
 # jmbook
 코난쿤이 해결한 알고리즘 문제 해결 전략 (종만북)에 나오는 문제들
 
-## 문제 
+## 문제 목록
+- X 라고 적힌 문제는 아직 해결하지 않은 문제이며 빠른 시일내에 해결 후 업로드 할 예정입니다.
 - 1장: 문제 해결과 프로그래밍 대회
   - 록 페스티벌 (FESTIVAL)
 - 2장: 문제 해결 개관 (연습문제 없음)
@@ -16,7 +17,7 @@
 - 7장 : 분할 정복
   - 쿼드 트리 뒤집기 (QUADTREE)
   - 울타리 잘라내기 (FENCE)
-  - 팬미팅 (FANMEETING)
+  - 팬미팅 (FANMEETING) (X)
 - 8장: 동적 계획법
   - 외발 뛰기 (JUMPGAME)
   - 와일드카드 (WILDCARD)
@@ -32,45 +33,45 @@
   - 폴리오미노 (POLY)
   - 두나발 박사의 탈옥 (NUMB3RS)
 - 9장: 동적 계획법 테크닉
-  - 여행 짐 싸기 (PACKING)
-  - 광학 문자 인식 (OCR)
-  - 모스 부호 사전 (MORSE)
-  - k번째 최대 증가 부분 수열 (KLIS)
-  - 드래곤 커브 (DRAGON)
-  - 웨브바짐 (ZIMBABWE)
-  - 실험 데이터 복구하기 (RESTORE)
-  - 틱택토 (TICTACTOE)
-  - 숫자 게임 (NUMBERGAME)
-  - 블록 게임 (BLOCKGAME)
+  - 여행 짐 싸기 (PACKING) (X)
+  - 광학 문자 인식 (OCR) (X)
+  - 모스 부호 사전 (MORSE) (X)
+  - k번째 최대 증가 부분 수열 (KLIS) (X)
+  - 드래곤 커브 (DRAGON) (X)
+  - 웨브바짐 (ZIMBABWE) (X)
+  - 실험 데이터 복구하기 (RESTORE) (X)
+  - 틱택토 (TICTACTOE) (X)
+  - 숫자 게임 (NUMBERGAME) (X)
+  - 블록 게임 (BLOCKGAME) (X)
   - 회전초밥 (SUSHI)
-  - 지니어스 (GENIUS)
-  - 출전 순서 정하기 (MATCHORDER)
+  - 지니어스 (GENIUS) (X)
 - 10장: 탐욕법
+  - 출전 순서 정하기 (MATCHORDER)
   - 도시락 데우기 (LUNCHBOX)
   - 문자열 합치기 (STRJOIN)
-  - 미나스 아노르 (MINASTIRITH)
+  - 미나스 아노르 (MINASTIRITH) (X)
 - 11장: 조합 탐색
-  - 게임판 덮기 2 (BOARDCOVER2)
-  - 알러지가 심한 친구들 (ALLERGY)
-  - 카쿠로 (KAKURO2)
+  - 게임판 덮기 2 (BOARDCOVER2) (X)
+  - 알러지가 심한 친구들 (ALLERGY) (X)
+  - 카쿠로 (KAKURO2) (X)
 - 12장: 최적화 문제 결정 문제로 바꿔 풀기
   - DARPA Grand Challenge (DARPA)
   - 남극 기지 (ARCTIC)
   - 캐나다 여행 (CANADATRIP)
-  - 수강 철회 (WITHDRAWAL)
+  - 수강 철회 (WITHDRAWAL) (X)
 - 13장: 수치 해석
-  - 단변수 다항 방정식의 수치적 해법 (ROOTS)
+  - 단변수 다항 방정식의 수치적 해법 (ROOTS) (X)
   - 전세금 균등상환 (LOAN)
   - 승률 올리기 (RATIO)
-  - 철인 2종 경기 (UVA 10385)
-  - 꽃가루 화석 (FOSSIL)
+  - 철인 2종 경기 (UVA 10385) (X)
+  - 꽃가루 화석 (FOSSIL) (X)
 - 14장: 정수론
   - 비밀번호 486 (PASS486)
   - 마법의 약 (POTION)
 - 15장: 계산 기하
-  - 핀볼 시뮬레이션 (PINBALL)
-  - 보물섬 (TREASURE)
-  - 너드인가, 너드가 아닌가(NERDS)
+  - 핀볼 시뮬레이션 (PINBALL) (X)
+  - 보물섬 (TREASURE) (X)
+  - 너드인가, 너드가 아닌가(NERDS) (X)
 - 16장: 비트마스크
   - 졸업 학기 (GRADUATION)
 - 17장: 부분 합
@@ -84,13 +85,13 @@
   - 작명하기(접두사/접미사) (NAMING)
   - 팰린드롬 만들기 (PALINDROMIZE)
   - 재하의 금고 (JAEHASAFE)
-  - 말버릇 (HABIT)
+  - 말버릇 (HABIT) (X)
 - 21장: 트리의 구현과 순회
-  - 트리 순회 순서 변경 (TRAVERSAL)
-  - 요새 (FORTRESS)
+  - 트리 순회 순서 변경 (TRAVERSAL) (X)
+  - 요새 (FORTRESS) (X)
 - 22장: 이진 검색 트리
-  - 너드인가, 너드가 아닌가(2 (NERD2)
-  - 삽입 정렬 뒤집기 (INSERTION)
+  - 너드인가, 너드가 아닌가(2 (NERD2) (X)
+  - 삽입 정렬 뒤집기 (INSERTION) (X)
 - 23장: 우선순위 큐와 힙
   - 변화하는 중간 값 (RUNNINGMEDIAN)
 - 24장: 구간 트리
@@ -100,18 +101,18 @@
 - 25장: 상호 배타적 집합
   - 에디터 전쟁 (EDITORWARS)
 - 26장: 트라이
-  - 안녕히, 그리고 물고기는 고마웠어요! (SOLONG)
-  - 보안종결자 (NH)
+  - 안녕히, 그리고 물고기는 고마웠어요! (SOLONG) (X)
+  - 보안종결자 (NH) (X)
 - 27장: 그래프의 표현과 정의 (연습문제 없음)
 - 28장: 그래프의 깊이 우선 탐색
   - 고대어 사전 (DICTIONARY)
   - 단어 제한 끝말잇기 (WORDCHAIN)
   - 감시 카메라 설치 (GALLERY)
-  - 회의실 배정 (MEETINGROOM)
+  - 회의실 배정 (MEETINGROOM) (X)
 - 29장: 그래프의 너비 우선 탐색
   - Sorting Game (SORTGAME)
-  - 어린이날 (CHILDRENDAY)
-  - 하노이의 탑 (HANOI4)
+  - 어린이날 (CHILDRENDAY) (X)
+  - 하노이의 탑 (HANOI4) (X)
 - 30장: 최단 경로 알고리즘
   - 신호 라우팅 (ROUTING)
   - 소방차 (FIRETRUCKS)
@@ -124,8 +125,8 @@
   - 여행 경로 정하기 (TPATH)
 - 32장: 네트워크 유량
   - 승부 조작 (MATCHFIX)
-  - 비숍 (BISHOPS)
-  - 함정 설치 (TRAPCARD)
+  - 비숍 (BISHOPS) (X)
+  - 함정 설치 (TRAPCARD) (X)
 
 ## 기타
 * License: MIT
