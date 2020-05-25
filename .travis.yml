@@ -1,14 +1,16 @@
-matrix:
-  include:
-    - os: linux
-      addons:
-        apt:
-          sources:
-            - ubuntu-toolchain-r-test
-            - llvm-toolchain-precise-11.0.3
-          packages:
-            - clang-11
-            - curl
+dist: trusty
+language: cpp
+os: linux
+
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - clang
+
+compiler:
+  - clang
 
 before_install:
   - wget https://github.com/bazelbuild/bazel/releases/download/3.0.0/bazel_3.0.0-linux-x86_64.deb
