@@ -2,6 +2,9 @@ dist: bitonic
 language: cpp
 os: linux
 
+env:
+  - CMAKE_VERSION=3.16.2
+
 addons:
   apt:
     sources:
