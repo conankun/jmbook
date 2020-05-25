@@ -1,5 +1,7 @@
 # jmbook
-[코난쿤](https://conankun.github.io/)이 작성한 알고리즘 문제 해결 전략 (종만북)에 나오는 문제들에 대한 해답 모음입니다.
+[![Build Status](https://travis-ci.org/conankun/jmbook.svg?branch=master)](https://travis-ci.org/conankun/jmbook)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+> [코난쿤](https://conankun.github.io/)이 작성한 알고리즘 문제 해결 전략 (종만북)에 나오는 문제들에 대한 해답 모음입니다.
 
 ## 주의 사항
 - 반드시 코드를 보기 전에 충분히 고민 한 후 참고해주세요! 안그러면 실력이 늘기 힘듭니다.
@@ -132,8 +134,8 @@
   - 비숍 (BISHOPS) (X)
   - 함정 설치 (TRAPCARD) (X)
 
-## 기타
-* License: MIT
+## 유의 사항
 * 제공되는 풀이는 [알고스팟](https://algospot.com/) 에서 **정답!** 판정을 받은 코드입니다.
 * 제공되는 풀이는 책 저자분의 공식 풀이가 아닌 [conankun](mailto:conankunioi@gmail.com) 이 작성한 풀이입니다.
 * 만약 오류가 있거나 질문 사항이 있으시면 [Issues](https://github.com/conankun/jmbook/issues)에 올려주시기 바랍니다.
+* Disclaimer: This repository is not endorsed by the textbook author.
