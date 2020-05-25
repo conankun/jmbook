@@ -3,6 +3,12 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 > [코난쿤](https://conankun.github.io/)이 작성한 알고리즘 문제 해결 전략 (종만북)에 나오는 문제들에 대한 해답 모음입니다.
 
+## 체크리스트
+- 본인이 해결한 문제들을 쉽게 관리할 수 있도록 도와주는 체크리스트 입니다.
+- 해결 및 실패한 문제 수와 전체 문제 대비 해결한 문제의 비율을 보여줍니다.
+- 알파벳 O 로 체크하면 해결, X 로 체크하면 실패, ^ 로 체크하면 해결할 예정(찜)으로 분류됩니다.
+- [다운로드](https://github.com/conankun/jmbook/blob/master/체크리스트.xlsx)
+
 ## 주의 사항
 - 반드시 코드를 보기 전에 충분히 고민 한 후 참고해주세요! 안그러면 실력이 늘기 힘듭니다.
 - 책에 나오는 방식과 구현이 다를 수 있습니다.
