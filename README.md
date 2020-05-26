@@ -99,8 +99,8 @@
   - 재하의 금고 (JAEHASAFE)
   - 말버릇 (HABIT) (X)
 - 21장: 트리의 구현과 순회
-  - 트리 순회 순서 변경 (TRAVERSAL) (X)
-  - 요새 (FORTRESS) (X)
+  - 트리 순회 순서 변경 (TRAVERSAL)
+  - 요새 (FORTRESS)
 - 22장: 이진 검색 트리
   - 너드인가, 너드가 아닌가(2 (NERD2) (X)
   - 삽입 정렬 뒤집기 (INSERTION) (X)
