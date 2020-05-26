@@ -137,8 +137,8 @@
   - 여행 경로 정하기 (TPATH)
 - 32장: 네트워크 유량
   - 승부 조작 (MATCHFIX)
-  - 비숍 (BISHOPS) (X)
-  - 함정 설치 (TRAPCARD) (X)
+  - 비숍 (BISHOPS)
+  - 함정 설치 (TRAPCARD)
 
 ## 유의 사항
 * 제공되는 풀이는 [알고스팟](https://algospot.com/) 에서 **정답!** 판정을 받은 코드입니다.
