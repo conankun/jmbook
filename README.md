@@ -70,7 +70,7 @@
   - DARPA Grand Challenge (DARPA)
   - 남극 기지 (ARCTIC)
   - 캐나다 여행 (CANADATRIP)
-  - 수강 철회 (WITHDRAWAL) (X)
+  - 수강 철회 (WITHDRAWAL)
 - 13장: 수치 해석
   - 단변수 다항 방정식의 수치적 해법 (ROOTS) (X)
   - 전세금 균등상환 (LOAN)
