@@ -52,9 +52,9 @@
   - 드래곤 커브 (DRAGON) (X)
   - 웨브바짐 (ZIMBABWE) (X)
   - 실험 데이터 복구하기 (RESTORE) (X)
-  - 틱택토 (TICTACTOE) (X)
-  - 숫자 게임 (NUMBERGAME) (X)
-  - 블록 게임 (BLOCKGAME) (X)
+  - 틱택토 (TICTACTOE) (O)
+  - 숫자 게임 (NUMBERGAME) (O)
+  - 블록 게임 (BLOCKGAME) (O)
   - 회전초밥 (SUSHI)
   - 지니어스 (GENIUS) (X)
 - 10장: 탐욕법
